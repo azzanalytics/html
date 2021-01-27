@@ -46,10 +46,6 @@ body {
     border: 1px solid #999999;
     padding: 20px;
 
-    .header h1 {
-        text-align: left;
-    }
-
 }
 
 .menu {
